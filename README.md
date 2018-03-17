@@ -1,5 +1,16 @@
 # tcp_packet
 
+## Introduction
+
+Generates a valid TCP SYN packet. Can be sent using the [`raw-socket`](https://github.com/stephenwvickers/node-raw-socket)
+module. [Example](#example)
+
+## Installation
+
+```
+npm i git+https://github.com/zachary822/tcp_packet.git
+```
+
 ## Example
 
 ```javascript
